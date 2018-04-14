@@ -4,7 +4,7 @@ The BSC (Blockchain Security Controls) prescribes security controls for blockcha
 
 Blockchain technology has earned the trust of Governments and banks around the world. 
 
-There is an urgent need for an accepted security controls for secure blockchain implementations.  The BSC is a constantly evolving project that prescribes security controls for blockchain implementations. Many of the security controls are based on NIST Special Publication 800-53 Revision 5 and may also apply to distributed ledger systems.
+There is an urgent need for an accepted security controls for secure blockchain implementations.  The BSC is a constantly evolving project that prescribes security controls for blockchain implementations. Many of the security controls are based on NIST Special Publication 800-53 Revision 4 and Draft 5 may also apply to distributed ledger systems.
 
 
 A. Introduction
