@@ -1,6 +1,6 @@
-PT-BSC: Blockchain Security Controls
+Blockchain Security Controls
 =====================================
-The PT-BSC (Primechain Technologies - Blockchain Security Controls) prescribes security controls for blockchain implementations.
+The BSC (Blockchain Security Controls) prescribes security controls for blockchain implementations.
 
 Blockchain technology has earned the trust of Governments and banks around the world. 
 
@@ -218,7 +218,7 @@ Contributors
 =================
 A non-exhaustive list of contributors:
 
-* Rohas Nagpal (rohas@primechain.in)
+* Rohas Nagpal
 * Sudin Baraokar
 * Shinam Arora
 * Debasis Nayak
