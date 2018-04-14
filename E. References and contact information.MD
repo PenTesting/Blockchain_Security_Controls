@@ -5,4 +5,4 @@ References:
 2.	NIST Special Publication 800-53 Revision 4
 3.	OWASP Testing Guide v4
 
-For comments, suggestions and criticisms, please contact Rohas Nagpal on rohas@primechain.in
+For comments, suggestions and criticisms, please contact Us
