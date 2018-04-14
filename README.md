@@ -214,12 +214,6 @@ E. References and contact information
 ------------------
 
 
-Contributors
-=================
-A non-exhaustive list of contributors:
-
-* Rohas Nagpal
-* Sudin Baraokar
-* Shinam Arora
-* Debasis Nayak
-* Sripathi Srinivasan
+Ideas?
+======
+Contact us.
